@@ -1,5 +1,5 @@
 ---
-title: your first note
+title: note hub
 ---
 
 ### Welcome!
