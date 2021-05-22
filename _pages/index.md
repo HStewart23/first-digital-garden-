@@ -1,5 +1,8 @@
 ---
-
+title: home
+layout: page
+id: home
+permalink: / 
 ---
 
 # Welcome! 🌱

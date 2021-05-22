@@ -1,8 +1,5 @@
 --- 
-title: home
-layout: page
-id: home
-permalink: / 
+title: improve my thinking 
 ---
 
 there is certainly much to improove upon
