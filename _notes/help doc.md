@@ -1,5 +1,5 @@
 ---
-title: note hub
+title: help doc
 ---
 
 ### Welcome!
