@@ -2,7 +2,14 @@
 title: coding
 ---
 
-      
+After an initial coding on a subsection of this data set the coding process will be as follows: an initial descriptive code of all materials over several passes, considering the distinction between the production, consumption and content of this data will be conducted, following this and using the conceptual framework for guidance an initial code list will be created and run through several more passes of the data updating the code list where necessary. The codes and memos that result from this process will be grouped and compared to theory in the analysis portion of the essay. 
+
+In the initial coding process it was found to be useful to use a degree of magnitude coding through out the process specifically in the instruction documents. These documents are quite dry and part of the interest in them is the question of who they are written for - what level of technical competency is expected, what problems are anticipated, what queries is this prospective user expected to ask, how are they formulated etc. Many of these codes need to be done manually but things such as the technical complexity of the language may be done programaticaly. This will be explored. As a body it may be fruitful to run this corpus of texts through the text analysis systems themselves.  
+
+
+ Coding is primarily an interpretive act, an initial provision of lists can be created to harmonize with your studie's conceptual framework and to enable analysis that directly answers your research questions and goals. ~ saldana
+
+This study is primarily a document analysis using various sources.      
 
 Questions to ask of your coding method 
 

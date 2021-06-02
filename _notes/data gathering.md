@@ -16,7 +16,5 @@ Sampling (from Amanda)
 - do I need to justify why I have choosen nVivo ? 
 - what kind of design analysis - need theoretical reference for this
 
-I used the [TAPoR (Text Analysis Portal for Research)](http://tapor.ca/home) collection of text mining tools to identify tools text analysis with a special focus on discovery.
-
-For each of the texts identified I pulled the text to analyse seperatly in nViVo and grabbed some screenshots to analyse the visual lay out of the manuals as well. I also pulled screenshots of the tools themselves for visual design analysis.
+I used the [TAPoR (Text Analysis Portal for Research)](http://tapor.ca/home) collection of text mining tools to identify tools text analysis with a special focus on discovery. For each of the texts identified I pulled the text to analyze separetly in nViVo and grabbed some screenshots to analyses the visual lay out of the manuals as well. I also pulled screenshots of the tools themselves for visual design analysis.
 

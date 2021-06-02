@@ -1,0 +1,33 @@
+---
+title: initial methods proposal
+---
+
+      
+
+As the theorist David Berry (2012) suggests we have now arrived at the stage of internet development where it is the products of the Internet and the products that are enabled by the Internet that need to be examined to understand current changes and trajectory in our interactions with digital space. One way in which browsing occurs, which is both analogue and digital is within texts. Think of traversing between chapters using the subheadings or sections of the contents page (Zoellick, 1987). Indeed, many reference books are not designed to be read cover to cover but are made with the understanding that they will be browed through in search of relevant information. The specific tools that will be the study of this project are those that facilitate a different type of browsing through text, one which has been understood anew as a result of the internet age (Ramsay, 2014). 
+
+  
+
+Using natural language processing (NLP) technology they allow the reader to peruse hundreds of lines of texts. These are arranged, not in any order that a human could comprehend, but in a data base, stored in such a way that only a computer can read them. This allows the human using the system to traverse _through_ texts literally in a mode very much inspired by hypertext (Tudhope and Cunliffe, 1999). Different systems have different affordance but in general they have features such as allowing the user to query an entire text or archive for key words, cadences, tenses or reference dates depending on the focus of their research. They can also often combine and visualise these queries in order to get new perspective on the material (Muralidharan and Hearst 2013). That this kind digital of research can be fruitful in ways that allude traditional scholars is the backbone of the digital humanities (Moretti, 2013, Schults, 2017). 
+
+  
+
+Method
+
+Quantitative methods often struggle to measure normative concepts due to the difficulty sufficiently defining them so as to make them testable. Questions of falsifiability and significance mean very little without some kind of truth claim to apply them too, if the shared understanding of a concept is somewhat nebulous extracting a truth claim of any weight can be challenging. Certainly, questions that aspire towards finding or unifying meaning/s across disciplines such as that which is proposed in this paper are not suited to this kind of quantitative analysis. Smaller questions are generally more suited to quantitative investigation, however the answer gleaned from such research would not play into any of the larger implications that make the research question in this proposal relevant. Namely those implication surrounding how the changing shape of technology is influencing our lived experience of actions that we perform in concert with it.
+
+  
+
+‘Functional theory’ (Stinchcombe, 1987) which describes the causal relationship between a structure and its consequences, is core to this methodology. In this case the relationship between a structure (modern data places) and its consequences (how they affect the behaviour of browsing) is being tested. To this end I suggest leveraging the precise behavioural definitions involved in the design process of complex tools as c_onsequences_ of the _structure_ of a digitalised text environment and examining how the results fit into current browsing theory. To this end the dual processes of document analysis and elite interviews is proposed. 
+
+  
+
+Using O’Neil’s eight step process for document analysis (2013), the researcher will trawl the technical documents as well as the technology itself in order to prepare for interview. The purpose of this is to: gain a complex understanding of the purpose of the tool and how the act of browsing fits in to that purpose; understand the behavioural options afforded to the user via the technology; and attempt situate these findings in pre-existing theory. This will then prepare the researcher to interview the designers of the tools in order to further develop the concept of browsing encoded into the tool. Once the interviews have been conducted the next step will be to contrast and compare the expert answers to the existing theory. The identification of user needs or behaviours that are not accounted for in the theory will be considered a challenge to that body of theory being used unilaterally and will count towards examining the use of that theory more critically.
+
+  
+
+Though a provisional list was given in the introduction, exactly which technologies will be the focus of this study depends somewhat on the availability of their makers and designers for interview. This is one of the risk of elite interviews as a methodology. Luckily, should there be difficulties gaining some of the interviews, the wealth of open source content and relevant literature available on these technologies should help to fill the gap. There is also the issue of the dependance on the designers conceptualisations around browsing. Having worked in design and development I have no doubt that they have these conceptions, they are essential for user experience design. However, their conceptualisations will not necessarily be framed in terms of browsing and they are unlikely, as it is an industry rather than an academic setting, to specifically cite browsing theory of their own accord. For this reason, were there scope, it would be ideal to include some kind of user behaviour testing on the different tools to give a comparative baseline for how browsing is actually experienced when using them. Though that is no possible in the scope of this thesis, it could hypothetically be conducted in future research in the case that this work is fruitful. Furthermore, I hope that this limitation can be mitigated by careful and considerate interviewing.
+
+      
+
+There are few ethical risks involved in this study. Whilst this will involve in-depth and deeply researched interviews, the questions that will be asked are not of an overtly personal or political nature so anonymisation of individuals or technology will not be required. In elite interviews focusing on businesses and organisation, intellectual property is often the primary ethical concern (Empson, 2017). However, in this case none of the tools I will be looking are bought rather, due to the online culture of this field and for transparency, many of them are fully open source, widely documented and freely available for personal use along with the names of their inventors. In addition, browsing though an important concept is hardly a life or death issue, so challenges to existing theory put no one at risk.
